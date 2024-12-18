@@ -1,0 +1,3 @@
+/*Weather Observation Station 6 HACKERRANK*/
+
+SELECT CITY FROM STATION  where city LIKE 'A%' OR city LIKE 'E%' OR city LIKE 'I%' OR city LIKE 'O%' OR city LIKE 'U%';
